@@ -4,9 +4,10 @@ import fs from 'fs';
 import matter from 'gray-matter';
 import { marked } from 'marked';
 import chokidar from 'chokidar'
-import { rebuildRoutes } from 'react-static/node';
-chokidar.watch('src/blog').on('all', rebuildRoutes);
-chokidar.watch('src/content').on('all', rebuildRoutes);
+// import { rebuildRoutes } from 'react-static/node';
+
+// chokidar.watch('src/blog').on('all', rebuildRoutes);
+// chokidar.watch('src/content').on('all', rebuildRoutes);
 
 
 async function loadMarkdownFromDir(path) {
