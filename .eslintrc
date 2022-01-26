@@ -1,0 +1,4 @@
+{
+  "extends": "react-app",
+  "import/no-anonymous-default-export": false,
+}

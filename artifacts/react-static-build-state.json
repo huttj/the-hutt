@@ -1,0 +1,62 @@
+{
+  "prefetchRate": 5,
+  "maxThreads": null,
+  "disableRoutePrefixing": false,
+  "outputFileRate": 100,
+  "extensions": [
+    ".js",
+    ".jsx"
+  ],
+  "minLoadTime": 200,
+  "disablePreload": false,
+  "disableRuntime": false,
+  "preloadPollInterval": 300,
+  "productionSourceMaps": false,
+  "silent": false,
+  "entry": "index.js",
+  "plugins": [
+    [
+      "/Users/joshuahutt/Projects/the-hutt/node_modules/react-static-plugin-source-filesystem/node.api.js",
+      {
+        "location": "/Users/joshuahutt/Projects/the-hutt/src/pages"
+      }
+    ],
+    "/Users/joshuahutt/Projects/the-hutt/node_modules/react-static-plugin-reach-router/browser.api.js",
+    "/Users/joshuahutt/Projects/the-hutt/node_modules/react-static-plugin-sitemap/dist/node.api.js",
+    "/Users/joshuahutt/Projects/the-hutt"
+  ],
+  "paths": {
+    "ROOT": "/Users/joshuahutt/Projects/the-hutt",
+    "SRC": "/Users/joshuahutt/Projects/the-hutt/src",
+    "DIST": "/Users/joshuahutt/Projects/the-hutt/dist",
+    "ASSETS": "/Users/joshuahutt/Projects/the-hutt/dist",
+    "PLUGINS": "/Users/joshuahutt/Projects/the-hutt/plugins",
+    "TEMP": "/Users/joshuahutt/Projects/the-hutt/tmp",
+    "ARTIFACTS": "/Users/joshuahutt/Projects/the-hutt/artifacts",
+    "PUBLIC": "/Users/joshuahutt/Projects/the-hutt/public",
+    "NODE_MODULES": "/Users/joshuahutt/Projects/the-hutt/node_modules",
+    "EXCLUDE_MODULES": "/Users/joshuahutt/Projects/the-hutt/node_modules",
+    "PACKAGE": "/Users/joshuahutt/Projects/the-hutt/package.json",
+    "HTML_TEMPLATE": "/Users/joshuahutt/Projects/the-hutt/dist/index.html",
+    "STATIC_DATA": "/Users/joshuahutt/Projects/the-hutt/dist/staticData"
+  },
+  "siteRoot": "/",
+  "basePath": "",
+  "publicPath": "/",
+  "assetsPath": "",
+  "extractCssChunks": false,
+  "inlineCss": false,
+  "babelExcludes": [],
+  "devServer": {
+    "host": "localhost",
+    "port": 3000
+  },
+  "terser": {
+    "terserOptions": {
+      "mangle": {},
+      "parse": {},
+      "compress": {},
+      "output": {}
+    }
+  }
+}
