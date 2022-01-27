@@ -4,11 +4,21 @@ import fs from 'fs';
 import matter from 'gray-matter';
 import { marked } from 'marked';
 import chokidar from 'chokidar'
-// import { rebuildRoutes } from 'react-static/node';
+import { rebuildRoutes } from 'react-static/node';
 
-// chokidar.watch('src/blog').on('all', rebuildRoutes);
-// chokidar.watch('src/content').on('all', rebuildRoutes);
+let builtOnce = false;
 
+const watchContent = (() => {
+  let watching = false;
+  return () => {
+    if (!watching) {
+      process.stdout.write('Watching content dirs...\n\n\n\n');
+      watching = true;
+      chokidar.watch('src/blog').on('all', () => builtOnce && rebuildRoutes());
+      chokidar.watch('src/content').on('all', () => builtOnce && rebuildRoutes());
+    }
+  };
+})()
 
 async function loadMarkdownFromDir(path) {
   return (await fs.promises.readdir(path))
@@ -25,12 +35,16 @@ async function loadMarkdownFromDir(path) {
 
 export default {
 
-  getRoutes: async ({ dev }) => {
+  getRoutes: async ({ stage }) => {
+
+    if (stage === 'dev') {
+      watchContent();
+    }
 
     const posts = await loadMarkdownFromDir('src/blog');
     const content = await loadMarkdownFromDir('src/content');
 
-    return [
+    const routes = [
       ...content.map(data => ({
         path: `/${data.id}`,
         getData: () => data,
@@ -47,7 +61,11 @@ export default {
           }),
         })),
       },
-    ]
+    ];
+
+    builtOnce = true;
+
+    return routes;
   },
   plugins: [
     [

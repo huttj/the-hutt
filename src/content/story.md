@@ -1,4 +1,4 @@
-# Story
+# My Story
 
 ## Explanation
 
@@ -6,9 +6,9 @@ I don't think people really read my resume. It's about four pages long. I know, 
 
 I've worked for startups, enterprises, consulting firms, small clients, coding schools, and a FAANG (kinda). I'm working at Woot, twice removed (TEKSystems -> AWS Proserve -> Woot). I also got an offer from FB, but turned it down.
 
-This page covers my journey and a lot of lessons learned along the way. You might find it interesting. One peculiarity is that some of the lessons weren't available immediately in retrospect, but took time to percolate. That might be reflected in fewer or less significant lessons in the more recent episodes.
+This page covers my journey and a lot of lessons learned along the way. You might find it interesting. One peculiarity is that some of the lessons weren't apparent immediately in retrospect, but took time to percolate. That might be reflected in fewer or less significant lessons in the more recent episodes. And, you might notice that nearly all of the lessons are connected with my failures and shortcomings. I've had quite a bit of successes, often in spite of my pride and convictions, but that list is, strangely, much shorter.
 
-At any rate, this is my attempt to distill all of the lessons. I may add to it, as the profundities dawn on me.
+At any rate, this is my attempt to distill all of the lessons from my career. I may add to it, as the profundities dawn on me, and as I pile on more, *ahem*, learnings.
 
 > Everything here is my **personal** opinion, and has nothing to do with any of my employers' views, past or present.
 
@@ -39,9 +39,18 @@ At any rate, this is my attempt to distill all of the lessons. I may add to it, 
 ## College
 
 ### tl;dr (lessons learned)
+- Success and skills are often a product of just putting in the time
+- Toot your own horn; no one will invest the time an effort to discover your story, but if you tell it well, they might respond
 - College is not a magic bullet, and not for everyone
 - Childhood gave me a superiority complex, took some serious exposure to shake that out
 - Getting relevant job experience/internships as early as possible is invaluable
+
+I went to college at the University of Washington. What might be surprising is that higher education was never on my radar until just after I graduated. I had...*humble* plans based on unskilled work and trying to make it big as a musician. It seems silly, 20 years later, but that's just where I was at the time.
+
+Long story short, someone who quickly became a lifelong friend had the chance to meet me at the exact right time, learn of these plans, and, with a perfect touch, suggested that I consider taking the SAT and seeing how I fared. "If you score well enough, colleges will pay you to go. It's essentially free money." Intrigued, I spent the summer after graduation practicing and drilling, day in and out. And, it did work. I scored a 2280, not quite a perfect score, but in the highest percentile.
+
+I stumbled through the admissions process. Not leaning hard enough on my hardships and challenges, I submitted half-hearted essays and got into only several schools. I decided on the UW, as it seemed to be the biggest, broadest environment where I could really stretch my wings. And, it was close to home.
+
 
 
 ## Tech Writing
