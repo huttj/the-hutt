@@ -7,7 +7,7 @@
 - [joshuathehutt.com](joshuathehutt.com)
 - [github.com/huttj](github.com/huttj)
 
-## SUMMARY OF QUALIFICATIONS
+## Summary of Qualifications
 - Full-stack JavaScript / TypeScript application development; with Node.js, React, React Native, Redux, and Electron
 -	Multi-cloud architecture with AWS (ECS/EC2, Lambda, S3, SQS, SNS, API Gateway) and GCP (GKE, GCS, Cloud SQL)
 -	SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB, RethinkDB, ScyllaDB) database administration	
@@ -18,16 +18,16 @@
 -	Teaching experience in technical and non-technical fields
 -	Mandarin Chinese (Fluent)
 
-## RELEVANT EXPERIENCE
+## Relevant Experience
 
-### Tech Consultant at AWS Professional Services
+### Tech Consultant at [AWS Professional Services](https://aws.amazon.com/professional-services)
 
 11/2021 – Present
 
 -	Review and collaborate on the technical design of a next-gen, federated GraphQL platform to replace aging architecture of a well-known retail platform’s back-end services with a modern, consolidated tech stack. 
 -	Design and implement an authentication and authorization mechanism within the platform for service teams to secure and restrict access to their subgraphs, using GraphQL directives.
 
-### Lead Software Engineer at Lowe’s Innovation Labs
+### Lead Software Engineer at [Lowe’s Innovation Labs](https://www.lowesinnovationlabs.com)
 5/2020 – 11/2021 
 
 -	Leading a team of five (5) developers develop a 3D asset scanning pipeline management tool to support a key Lowe’s initiative to produce high-resolution 3D models to modernize the catalog on Lowes.com, the Lowe’s app, and other sites.
@@ -36,13 +36,13 @@
 -	Driving the system design and system architecture of the 3D asset management tool, creating documents and diagrams to serialize the approach, lock in the focus, and inform the implementation.
 -	Introducing Lowe’s enterprise Forgerock authentication strategy into the Lab’s ecosystem, to support in-store authentication by store associates for the Lab’s apps, where applicable.
 
-### Lead Software Developer (Contract) at Wellsaid Labs
+### Lead Software Developer (Contract) at [Wellsaid Labs](https://wellsaidlabs.com)
 7/2019 – 10/2019
 
 -	Redesigned the onboarding flow to integrate Auth0 user signup with Stripe subscription payments, enabling full self-service conversion of customers from trial to paid, including handling the full customer journey (signup, cancellation, resubscription).
 -	Established a new logging pattern to include a greater level of detail and consistency throughout the application and created metrics dashboard using the new data, which combined to provide greater insight and an improved debugging experience.
 
-### Software Development Engineer III at LivePerson
+### Software Development Engineer III at [LivePerson](https://www.liveperson.com)
 8/2018 – 5/2020	
 
 -	Drove the implementation of the CEO’s self-service vision for the platform by leading the efforts for an API Standardization program and by delivering the company’s first zero-touch, trial-to-paid upgrade and onboarding experience for new accounts.
@@ -56,7 +56,7 @@
 -	Won the “most developer-centric” category in an internal, global hackathon for the Unified Conversational Context, a data platform and UX paradigm shift that aims to transform how consumers engage with brands through messaging.
 -	Recruited, interviewed, and hired the first round of new developers for most of the new teams in the Seattle office.
 
-### Senior Software Developer (Contract) at Coinstar
+### Senior Software Developer (Contract) at [Coinstar](https://www.coinstar.com)
 6/2018 – 8/2018
 
 -	Worked independently to turn transaction and other hardware event data into (1) automated alerts, (2) actionable insights, and (3) an ongoing source for powerful reports to be used by personnel across the business – from field engineers to BI analysts.
@@ -64,7 +64,7 @@
 -	Built an ETL in Node.js to efficiently load heavily normalized, and partially XML-based, data from Microsoft SQL Server, de-normalize and transform it into newline-delimited JSON, and output it for consumption by Logstash.
 -	Built a suite of visualizations, dashboards, machine learning jobs, and other data-driven assets for the organization.
 
-### Lead Mobile Developer (Contract) at NexTravel
+### Lead Mobile Developer (Contract) at [NexTravel](https://techcrunch.com/2021/01/13/business-trip-platform-travelperk-buys-yc-backed-rival-nextravel)
 3/2018 – 4/2018
 
 -	Worked independently to build and deliver a mobile application that wraps the existing NexTravel web experience and provides additional functionality to leverage the unique features of the mobile platform.
@@ -72,7 +72,7 @@
 -	Built and published versions of the app on both the Android Play Store and the Apple App Store.
 -	Included additional mobile-oriented features to improve the user experience, such as a connectivity monitor, a back button, and splash screen and unique icons well-suited for each platform.
 
-### Senior Software Developer at Elevāt
+### Senior Software Developer at [Elevāt](https://www.elevat-iot.com)
 11/2017 – 4/2018
 
 -	Worked with a small team of four other developers to scale an add critical features to a real-time IoT data collection and analysis platform built on AWS, with Node.js and AngularJS.
@@ -82,18 +82,18 @@
 -	Streamlined the development and deployment cycle with Terraform, CI/CD integrations between GitHub and Shippable, and advocating for and instructing on best practices in Git and Gitflow.
 -	Migrated unit tests to use Jest, improving speed and reliability, and making writing and maintenance easier for the developers.
 
-### Senior Software Developer (Contract) at Uber
+### Senior Software Developer (Contract) at [Uber](https://www.uber.com)
 8/2017 – 1/2018	
 
 -	Confidential. Worked with Node, React, and React Native.
 
-### Senior Software Developer at Stackline
+### Senior Software Developer at [Stackline](https://www.stackline.com)
 8/2017 – 9/2017
 
 -	Worked independently alongside a three-person team of backend developers to build a Vendor Data Collection service for retailer websites, to position Stackline as the single-source of truth for all customer sales data. The Node.js service logs in to vendor websites and (1) runs, (2) pulls, (3) transforms, and (4) loads sales and inventory reports. It was built on AWS ECS/EC2, Lambda, S3, SQS, and SNS, to provide a scalable and fault-tolerant solution with real-time status reporting in Slack.
 -	Built a Desktop Data Collector for running the vendor data collection process from the customer's own hardware, eliminating the need for sharing login credentials with clients, removing a significant hurdle for some prominent customers. Developed with Electron/Node.js, React, and Webpack, it includes a UI for account management and job monitoring, as well as a Headless Chrome API integrated into Electron for orchestrating the report collection process.
 
-### Senior Software Developer at Pushpay
+### Senior Software Developer at [Pushpay](https://pushpay.com)
 2/2017 – 8/2017
 
 -	Joined as the first US developer on Pushpay’s mobile content management platform, interfacing with a small team of developers based out of the original New Zealand headquarters to maintain and enhance a powerful mobile app content management and delivery platform, built in Node.js, React, and React Native.
@@ -101,14 +101,14 @@
 -	Automated screenshot collection for apps designed on the platform, to save dozens hours spent by implementation specialists on what was their lengthiest and most repetitive task, sharply reducing the overall time to onboard new customers.
 -	Developed UI/UX improvements to improve the customer experience throughout the platform and reduce the number of requests received by the support team.
 
-### Principal Engineer (Contract) at MaxSam Partners (CashMap)
+### Principal Engineer (Contract) at [MaxSam Partners (CashMap)](https://cashmapapp.com)
 3/2017 – 6/2017
 
 -	Developed a feature-rich, cross-platform mobile application with over 45 detailed screens and multiple dynamic formulae based on optional data entered throughout the app, using ES6, with React Native and Redux.
 -	Redesigned existing screens and functionality from the original iPad app to suit the phone form factor, introducing new levels of interactivity and instant feedback, including dynamic graphs and sliders, to improve the user experience.
 -	Integrated in-app purchases (one-time purchases) and in-app subscriptions via the Apple App Store unlocking premium content throughout the app’s various reports.
 
-### Lead Mobile Developer (Contract) for Grind Log Pro
+### Lead Mobile Developer (Contract) for [Grind Log Pro](http://www.grindlogpro.com)
 11/2016 – 5/2017
 
 -	Designed a mobile UI in an extremely short (one-week) timeframe, for the existing Grind Log Pro web app – a fast and flexible tool to help grocery stores maintain compliance with the USDA regulations in a reliable, convenient, and consistent manner. 
@@ -116,28 +116,28 @@
 -	Streamlined the barcode scanning process with the inclusion of a real-time scanning feature to quickly and easily scan grind barcodes and enter the data into the app.
 -	Handled the publication and update processes on both the Apple App Store and the Google Play Store.
 
-### Senior Software Developer (Contract) at MaxSam Partners (ALG)
+### Senior Software Developer (Contract) at [MaxSam Partners (ALG)](https://www.appleleisuregroup.com)
 10/2016 – 12/2016
 
 -	Worked on a two-person team to design and develop user-friendly, and reusable front-end components in AEM (Adobe Experience Manager), using Angular 1 and Sightly, for ongoing use by marketing personnel and other non-developers.
 -	Automated the production of over 200 marketing pages for the rollout of a high-SEO marketing site on the AEM platform, avoiding both costly scope creep and the scrapping of any part of the planned delivery, instead making it possible to build and deliver the full site on time and within budget.
 -	Produced multiple landing experiences for the project that secured a lucrative advertising deal with American Express.
 
-### Workshop Instructor (Contract) at Galvanize
+### Workshop Instructor (Contract) at [Galvanize](https://www.galvanize.com)
 4/2016 – 7/2016
 
 -	Independently taught an introductory JavaScript class and coached ten students of diverse backgrounds and technical experience in the basics of HTML, CSS, and JavaScript, in just eight short weeks.
 -	Emphasized the importance of solving the right problem, design-first approaches, and writing clean code, preparing the students for success in the full six-month course. Many of the students have successfully entered the software industry.
 -	Coached the students through various homework projects, including a student-driven final project, for which most of the students produced sophisticated and beautifully-designed applications, including a Yelp-integrated coffee shop locator, a tide pool map for kindergarten instruction, and an animated card-matching game.
 
-### Senior Front-End Developer (Contract)	at Cadence (formerly SeekPanda)
+### Senior Front-End Developer (Contract)	at [Cadence (formerly SeekPanda)](https://www.cadencetranslate.com)
 4/2016 – 6/2016
 
 -	Worked independently to redesign the user intake form in ReactJS, to vastly improve the form integration with the rest of the application, making it easier and more inviting for new customers to sign up and onboard quickly. Also included helpful widgets and tools to improve the UX, and integrated the form with Cadence’s "smart-match" technology on the backend.
 -	Dramatically redesigned the landing page to showcase the flexibility and technical sophistication of the platform, updated the site’s color scheme, and improved the look and feel of the all of the site’s pages on mobile.
 -	Integrated Intercom chat into the ReactJS application and the team’s Slack group, improving the customer experience from the first visit, and enabling the support team to guide new customers through signup and their first engagement.
 
-### Senior Development Engineer (Contract) at MaxSam Partners (TrueBlue)
+### Senior Development Engineer (Contract) at [MaxSam Partners (TrueBlue)](https://www.trueblue.com/)
 1/2016 – 10/2016
 
 -	Worked alongside a mixed team of contractors and FTEs to redesign an integration for a third-party vendor.
@@ -156,7 +156,7 @@
 -	Worked with a distributed team to triage and resolve bugs, production issues, and support requests, during on-call rotation.
 -	Designed and developed a menu management tool in Angular, Express, and MongoDB, to improve the user experience of customer menu management, and to preserve the integrity of the menu data during updates.
 
-### Support Engineer at Avanade
+### Support Engineer at [Avanade](https://www.avanade.com)
 3/2013 – 11/2015
 
 -	Designed and developed UX-driven features for an enterprise .NET MVC application written in C#, including user-requested status monitoring elements, page-level integration of detailed context-sensitive help (CSH), and form tooltips.
@@ -167,7 +167,7 @@
 -	Took ownership of the entire library of end-user and business consultant documentation for an enterprise software platform with a diverse customer base, in order to ensure a consistent, high-quality experience.
 -	Scripted, recorded, and edited a video training series for consultants and end-users of the software platform.
 
-### Web Designer & Business Consultant at Real Sort
+### Web Designer & Business Consultant at [Real Sort](http://realsort.com)
 6/2012 – 7/2012
 
 -	Worked with the customer to identify branding requirements and develop a unique and personal brand positioning.
@@ -175,7 +175,7 @@
 -	Created custom-branded physical documents, including business cards, customer intake forms, and questionnaires.
 -	Worked with the customer to develop and revise a business plan, marketing materials, and a three-tier service offering.
 
-## EDUCATION
+## Education
 
 ### Independent Study	
 March 2013 – Present
@@ -192,7 +192,7 @@ March 2013
 -	Studied in Sichuan, China, traveled independently, and offered English classes in multiple cities (2008-10).
 -	Worked in University Machine Shop (2010) and conducted Nanofluidics (2009-10) and Cilia experiments (2007-08).
 
-### ADDITIONAL SKILLS
+## Additional Skills
 
 -	Enterprise software documentation
 -	User-centered process documentation and training

@@ -18,9 +18,24 @@ li {
   margin-bottom: .5rem;
 }
 
+.resume h1 {
+  margin: 2rem 0 0 0;
+  line-height: 1;
+}
+
+.resume h2 {
+  font-variant: small-caps;
+  margin: 2rem 0 0 0;
+  line-height: 1;
+}
+
+.resume h3 {
+  margin: 1.5rem 0 0 0;
+  line-height: 1;
+}
 
 .resume h3 + p {
-  margin-top: -.5rem;
+  margin-top: .25rem;
   font-style: italic;
 
   color: hsl(212, 27%, 50%);
@@ -28,4 +43,20 @@ li {
 
 .resume p, .resume li {
   opacity: .9;
+}
+
+h1 {
+  margin: 2rem 0 0 0;
+}
+
+h2 {
+  margin: 2rem 0 0 0;
+}
+
+h3 {
+  margin: .5rem 0 0 0;
+}
+
+p, li, ol, ul {
+  margin: .5rem 0 0 0;
 }

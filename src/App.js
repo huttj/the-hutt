@@ -62,7 +62,7 @@ const footerClass = css`
     text-align: center;
     /* color: rgba(0,0,0, .5); */
   }
-  opacity: .125;
+  opacity: .25;
 `;
 
 export default App
